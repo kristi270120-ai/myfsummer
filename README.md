@@ -1,4 +1,5 @@
  my summer '26
+
 это мой сайт про лето 2026
 
 тут есть:
@@ -11,14 +12,12 @@
  еще немного меня
  почему-то javascript
 
-
  что использовала
 
 html
 css
 javascript
 немного figma
-много ctrl + z
 
  как запустить
 
@@ -30,14 +29,14 @@ javascript
 
 если не работает - я не знаю
 
- особенности
+особенности
 
- можно смотреть фотки
- можно листать
- можно скроллить
- некоторые вещи двигаются
- некоторые вещи не двигаются
- это уже как повезет
+можно смотреть фотки
+можно листать
+можно скроллить
+некоторые вещи двигаются
+некоторые вещи не двигаются
+это уже как повезет
 
 структура
 
@@ -46,13 +45,12 @@ site/
  summer.html
  summer.css
  summer.js
- imaes/
+ images/
 
 
 не спрашивайте что внутри `summer.js`
 
 я тоже не знаю
-
 
  автор
 
@@ -61,9 +59,8 @@ site/
 19 лет
 IT студентка
 
+[ссылка на Figma](https://www.figma.com/design/AzVRXpXTHgbL7kpwodZ9nD/Untitled?node-id=35-12510&t=81Nx92I7uYjSkkxm-1)
 
----
+
 
 made with html, css, javascript и нежеланием делать это второй раз
-
-ссылка на фигмулечку https://www.figma.com/design/AzVRXpXTHgbL7kpwodZ9nD/Untitled?node-id=35-12510&t=81Nx92I7uYjSkkxm-1
